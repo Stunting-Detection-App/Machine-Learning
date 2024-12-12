@@ -7,3 +7,6 @@ https://www.kaggle.com/code/rojindarafarin/stunting-balita-detection/input
 - Pandas
 - Numpy
 - Matplotlib
+# Original Repository
+- https://github.com/Xyvern/Capstone
+- https://github.com/Kyora02/RecommenderSystem
